@@ -9,36 +9,32 @@ Here are the main pages of the e-commerce website:
 
 ### 🏠 **Home Page**
 [`/`](#) – Displays featured products, categories, and banners.  
-![Home Page](<img width="1343" height="675" alt="Screenshot 2025-08-30 170822" src="https://github.com/user-attachments/assets/213b5871-2a1d-4424-8963-31e36ec377b3" />
-)
+![Home Page](https://github.com/user-attachments/assets/213b5871-2a1d-4424-8963-31e36ec377b3)
 
 ---
 
 ### 🔐 **Login / Register Page**
 [`/login`](#) – User authentication page for login and sign-up.  
-![Login Page](<img width="1343" height="680" alt="Screenshot 2025-08-30 170719" src="https://github.com/user-attachments/assets/460e5f84-f680-44c5-8df8-a6708c3a79f8" />
-)
+![Login Page](https://github.com/user-attachments/assets/460e5f84-f680-44c5-8df8-a6708c3a79f8)
 
 ---
 
 ### 🛒 **Cart Page**
 [`/cart`](#) – Shows products added to the shopping cart.  
-![Cart Page](<img width="1334" height="678" alt="Screenshot 2025-08-30 171029" src="https://github.com/user-attachments/assets/4288a67d-e99e-494e-9e8a-f4cbe2071401" />
-)
+![Cart Page](https://github.com/user-attachments/assets/4288a67d-e99e-494e-9e8a-f4cbe2071401)
 
 ---
 
 ### ❤️ **Wishlist Page**
 [`/wishlist`](#) – Displays saved items for later purchase.  
-![Wishlist Page](<img width="1351" height="662" alt="Screenshot 2025-08-30 171053" src="https://github.com/user-attachments/assets/c7517324-7cc8-4b26-b604-b7db6d344346" />
-)
+![Wishlist Page](https://github.com/user-attachments/assets/c7517324-7cc8-4b26-b604-b7db6d344346)
 
 ---
 
 ### 👤 **Profile Page**
 [`/profile`](#) – User account details, order history, and settings.  
-![Profile Page](<img width="1320" height="678" alt="Screenshot 2025-08-30 170924" src="https://github.com/user-attachments/assets/a743d911-8e05-473a-82cb-06cbf21fac1f" />
-)
+![Profile Page](https://github.com/user-attachments/assets/a743d911-8e05-473a-82cb-06cbf21fac1f)
+
 ---
 
 ## Project Overview 🛍️
