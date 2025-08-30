@@ -19,4 +19,4 @@ Welcome to ShopIn, a mern stack ecommerce project.Developed with React, MongoDB,
 
 ## Source Code 📁
 
-View the source code for ShopIn on GitHub: [ShopIn GitHub Repository]()
+View the source code for ShopIn on GitHub: [ShopIn GitHub Repository](https://github.com/RushikeshJadhav2004/Mainflow_task_6.git)
