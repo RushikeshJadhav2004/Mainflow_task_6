@@ -1,5 +1,5 @@
 # ShopIn: Mern-Ecommerce
-![License](https://img.shields.io/badge/license-MIT-blue)
+
 
 ## Project Overview 🛍️
 
@@ -15,10 +15,8 @@ Welcome to ShopIn, a mern stack ecommerce project.Developed with React, MongoDB,
 
 - **Add New Product**: Sellers can  expand their product catalog with a simple "Add New Product" feature.
 
-## Project Preview 🔗
 
-Explore ShopIny: [ShopIn Preview](https://shop-in-ecommerce-livid.vercel.app)
 
 ## Source Code 📁
 
-View the source code for ShopIn on GitHub: [ShopIn GitHub Repository](https://github.com/Al-Basit/ShopIn-Mern-Ecommerce)
+View the source code for ShopIn on GitHub: [ShopIn GitHub Repository]()
